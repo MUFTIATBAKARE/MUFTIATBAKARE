@@ -46,7 +46,10 @@
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MUFTIATBAKARE&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUFTIATBAKARE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
