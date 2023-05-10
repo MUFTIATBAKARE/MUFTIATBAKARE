@@ -1,5 +1,4 @@
 ## Hi there 👋
-Nice to meet you!
 
 <div id="header" align="center">
 
@@ -13,11 +12,11 @@ Nice to meet you!
   <a href="https://twitter.com/MufteeSphere?t=aqC0ho3ZzuRNSXaLlo0fVg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-
+<img src="https://komarev.com/ghpvc/?username=MUFTIATBAKARE&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
-
+---
 ### :woman_technologist: About Me :
 
       - 🌱 I’m currently learning React.js
@@ -28,9 +27,8 @@ Nice to meet you!
 
       - 📫 How to reach me: bakare.muftiat@gmail.com
 
-      - 😄 Pronouns: She/Her
-
-
+      - 😄 Pronouns: She/her 
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>  
@@ -50,6 +48,7 @@ Nice to meet you!
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MUFTIATBAKARE&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUFTIATBAKARE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
