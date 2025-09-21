@@ -19,11 +19,11 @@
 ---
 ### :woman_technologist: About Me :
 
-      - 🌱 I’m currently learning React.js
+      - 🌱 I’m currently learning Typescript
 
       - 👯 I’m looking to collaborate on FrontEnd Software Development projects.
 
-      - 💬 Ask me about: HTML, CSS, vanilla.js
+      - 💬 Ask me about: HTML, CSS, vanilla.js, ReactJs/NextJs
 
       - 📫 How to reach me: bakare.muftiat@gmail.com
 
