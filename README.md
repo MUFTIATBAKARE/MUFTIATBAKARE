@@ -19,13 +19,13 @@
 ---
 ### :woman_technologist: About Me :
 
-      - 🌱 I’m currently learning Typescript
+      - 🌱 I’m currently learning AI Product engineering
 
-      - 👯 I’m looking to collaborate on FrontEnd Software Development projects.
+      - 👯 I’m looking to collaborate on Software Development projects.
 
-      - 💬 Ask me about: HTML, CSS, vanilla.js, ReactJs/NextJs
+      - 💬 Ask me about: HTML, CSS, javascript, typescript, ReactJs/NextJs
 
-      - 📫 How to reach me: bakare.muftiat@gmail.com
+      - 📫 How to reach me: dev.elixir007@gmail.com
 
       - 😄 Pronouns: She/her 
 ---
