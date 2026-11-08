@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="Coding from home" />
 
 # Hi there 👋, I am MUFTIAT BAKARE
-### Frontend & Full-Stack Software Engineer • 100% Remote
+### Full-Stack Software Engineer (Frontend-Heavy) & Open-Source Contributor • 100% Remote
 
 Crafting high-performance web applications, interactive 3D WebGL experiences, and scalable design systems from my home workstation for teams worldwide.
 
@@ -37,7 +37,8 @@ Crafting high-performance web applications, interactive 3D WebGL experiences, an
 
 ## Open Source & Ecosystem Contributions (Stellar Wave / Drips Wave / OnlyDust)
 
-- **Zedu Ecosystem (`zeduchat`)**: Core frontend contributor across web, desktop, and mobile monorepos (`zedu-fe`, `tailleur-monorepo`). Shipped the Community & Channel Templates Directory and real-time notification optimizations.
+- **Zedu Ecosystem (`zeduchat` / `zedu-fe`)**: Core frontend contributor to the cross-platform collaboration system. Shipped the Community & Channel Templates Directory and real-time notification optimizations.
+- **Tailleur Monorepo**: Turborepo architecture implementing shared UI design systems (`@repo/ui`), Next.js applications, and type-safe configurations.
 - **StellarCred (`ToluLabs`)**: Engineered SDK health check utilities (`healthCheck`, `isConfigured`), URL return-parameter parsers, and deposit state gating tests.
 - **StellarLock**: Implemented frontend component test suites, toast notification systems, and dynamic SEO / OpenGraph metadata.
 - **Stellar-PolyMarket & Fund-My-Cause**: Built PWA offline capabilities and localized date/number formatting for international users.
