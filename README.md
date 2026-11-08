@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="Coding from home" />
 
-# Muftiat Bakare
+# Hi there 👋, I am MUFTIAT BAKARE
 ### Frontend & Full-Stack Software Engineer • 100% Remote
 
 Crafting high-performance web applications, interactive 3D WebGL experiences, and scalable design systems from my home workstation for teams worldwide.
