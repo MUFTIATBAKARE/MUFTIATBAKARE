@@ -35,6 +35,16 @@ Crafting high-performance web applications, interactive 3D WebGL experiences, an
 
 ---
 
+## Open Source & Ecosystem Contributions (Stellar Wave / Drips Wave / OnlyDust)
+
+- **Zedu Ecosystem (`zeduchat`)**: Core frontend contributor across web, desktop, and mobile monorepos (`zedu-fe`, `tailleur-monorepo`). Shipped the Community & Channel Templates Directory and real-time notification optimizations.
+- **StellarCred (`ToluLabs`)**: Engineered SDK health check utilities (`healthCheck`, `isConfigured`), URL return-parameter parsers, and deposit state gating tests.
+- **StellarLock**: Implemented frontend component test suites, toast notification systems, and dynamic SEO / OpenGraph metadata.
+- **Stellar-PolyMarket & Fund-My-Cause**: Built PWA offline capabilities and localized date/number formatting for international users.
+- **Revo-Marketplace & Akkuea**: Built marketplace UI components and resolved frontend architecture issues.
+
+---
+
 ## Technical Proficiencies
 
 - **Languages**:
